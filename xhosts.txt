@@ -30,6 +30,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 05bursa-escortsc-com.cdn.ampproject.org
 0.0.0.0 0638.info
 0.0.0.0 0n.click
+0.0.0.0 diproton-ads-[^\.]*\.hulu\.com\.akadns\.net
 0.0.0.0 1.bmon.site
 0.0.0.0 110380d053f716c4.com
 0.0.0.0 11820.com.tr
